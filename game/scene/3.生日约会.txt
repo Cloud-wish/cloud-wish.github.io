@@ -1,0 +1,22 @@
+changeFigure:none -next;
+changeBg:park background，night s-1958275557.png -next
+bgm:_性感丝绸2( Sexy Silk)_爱给网_aigei_com.mp3;
+:终于到了晚上，我开车前往公园
+;
+远远的，我看到了七海;
+changeBg:见面.png
+我停好车，慢悠悠的走到七海面前，故作轻佻的说到，;
+脆鲨:晚上好，七海小姐。;
+:只有我自己知道，我的心砰砰乱跳，紧张极了。;
+changeBg:park background，night s-3663570425.png
+setFigAni:bg_softIn 1s -center;
+changeFigure:Anime girl, brown short hair, gray sweater, red checked skirt, perspective s-717545710_HD.png -next;
+七海:这个送给你，是我和朋友们唱的歌 -这个送给你，是我和朋友们唱的歌.wav;
+脆鲨:限定。。游戏，你已经能出专辑了吗？;
+:七海应了一声;
+脆鲨:和我走吧，上车，我们去兜兜风。;
+changeFigure:none -next;
+:坐回副驾驶室，我的手心里已经全是汗水。;
+changeFigure:Anime girl, brown short hair, gray sweater, red checked skirt, perspective s-717545710_HD.png -next;
+七海:我坐好了，我们去哪 -我坐好了，我们去哪.wav;
+choose:任地狱体验店:3，生日约会，if，任地狱.txt|情人旅馆:3.生日约会，if,情人旅馆.txt;

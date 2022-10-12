@@ -1,0 +1,4 @@
+changeFigure:none;
+changeBg:City, Dream s-1662610985.png
+:从此，七海和阿梓过上了幸福快乐的生活。。。;
+choose:再次选择:4.情人节，晚上.txt|重新游戏:进入游戏名人名言.txt;

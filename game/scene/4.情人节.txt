@@ -1,0 +1,25 @@
+changeBg:none
+:2020年2月14日，这是我们第一个一起度过的情人节。 ;
+bgm:电影背景音乐爵士乐-浪漫幸福缓慢流畅-海洋之爱(Ocean _爱给网_aigei_com.mp3;
+changeBg:Brown short hair shoulder length hair, gray sweater, red checked skirt, white stockings，park background，night s-2449426800.png
+七海:玩的也玩过了，唱的也唱过了，接下来，该去那个那个了吧？ -1玩的也玩过了，唱的也唱过了，接下来该去那个那个了吧.mp3;
+脆鲨:哪个哪个？;
+七海:哪个哪个？你怎么让女孩子说那种事情，你真是，不要脸~ -2哪个哪个？你怎么让女孩子说那种事情，你真是，不要脸~_1.mp3;
+:我不知道我此刻的表情如何，但是我知道自己的心跳声一定非常快。;
+七海:你把眼睛闭起来，我带你去~ -你把眼睛闭起来，我带你去~.mp3;
+changeBg:none
+intro:;
+intro:;
+:我闭上眼睛，任凭七海拉着我向前走去。;
+changeBg:Arcade hall, doll grabbing machine s-1574788102.png
+changeFigure:Brown short hair shoulder length hair, gray sweater, red checked skirt, white stockings，Standing  s-3244459852_HD.png;
+setFigAni:centerIn 1s -center;
+七海:真是不好意思呢，但这个游戏是全年龄的。 -不好意思呢，我们这个是全年龄的，所以所以mp4.mp3;
+七海:当然就是，那个街机游戏啦！ -当然就是那个，那个街机游戏啦.mp3;
+脆鲨:不行！我要打补丁！;
+setFigAni:shake 1s -center;
+七海:我觉得，在街机厅里面一起打游戏是一件特别浪漫的事情，你觉得呢？ -我觉得在街机厅里面一起打游戏是一件特别浪漫的事情，你觉得呢.mp3;
+脆鲨:我们就好像高分少女的男女主一样呢。;
+七海:我们快点开始吧！;
+:七海小姐真的很喜欢游戏呢。;
+changeScene:4.情人节，晚上.txt;

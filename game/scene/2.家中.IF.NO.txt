@@ -1,0 +1,8 @@
+:我犹豫着，回复了七海;
+changeBg:聊天记录2.png -next
+脆鲨:抱歉，晚上有点事，来不了哦;
+:生日快乐啊，七海;
+changeFigure:none -next;
+changeBg:none -next
+:END;
+choose:再次选择:2.家中.txt|重新开始:start.txt;

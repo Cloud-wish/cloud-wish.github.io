@@ -1,0 +1,14 @@
+changeBg:none
+:深夜;
+changeBg:park,background,wallpaper,night s-1520941955.png
+changeFigure:8Gold eyes, brown short hair shoulder length hair, gray sweater, red checked skirt, white stockings，Standing s-4054523617.png;
+七海:你觉得约会最后要干什么呢，你猜猜~;
+:七海身体前倾，向我贴了过来;
+setFigAni:bg_down 1s -center;
+changeFigure:前倾.png;
+:是，，那个那个吗;
+七海:MUA~muamuamua -MAUMUAMUAMUA.mp3;
+七海:我喜欢你~ -我喜欢你.mp3;
+:看着我怀里的七海，我紧张的说不出话。;
+:拿出手机，我打出了几个字，;
+choose:七海小姐，能不能不要有别的女人:4.情人节，if,能不能不要有别的女人.txt|梓鲨不灭！:4，情人节，if，梓鲨不灭.txt;

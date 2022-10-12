@@ -1,0 +1,7 @@
+脆鲨:我也喜欢你。;
+七海:你只要陪在我身边就足够了，我每天都觉得很开心。 -你只要陪在我身边就足够了，我每天都觉得很开心。.wav;
+setFigAni:bg_softIn 1s -center;
+changeFigure:321.png;
+脆鲨:我MUA呢？;
+:七海激动地抱住了脆鲨,他们在一块儿拥吻了起来。 ;
+changeScene:5.END.txt;

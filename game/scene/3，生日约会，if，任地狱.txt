@@ -1,0 +1,19 @@
+changeFigure:none;
+:七海小姐好像很喜欢电子游戏，;
+:一进到店里，就拉着我在游戏机前坐下了。;
+bgm:马里奥赛车.mp3;
+changeBg:Mario Kart s-3723916424.png
+changeFigure:Brown short hair shoulder length hair, Racing Suit s-3530165234 (1).png;
+脆鲨:READY GO!!!!!!!!!;
+七海:欸欸欸欸！ -aiaaiaiai怪叫.mp3;
+脆鲨:龟壳来了，躲一下！;
+changeBg:Mario Kart s-3558730141.png -next
+setFigAni:shake 1s -center;
+七海:啊啊啊啊啊啊啊啊啊啊啊！！ -runaaaa怪叫2.mp3;
+脆鲨:小心香蕉皮！;
+setFigAni:shake 1s -center;
+七海:嬲，西巴~！！！ -呀西巴怪叫3.mp3;
+changeFigure:none -next;
+:七海小姐的游戏水平似乎不是很理想。;
+但我们仍是度过了一个愉快的生日约会。;
+changeScene:4.情人节.txt;
